@@ -1,5 +1,8 @@
 _repo: The-Diamond-Ship_55993
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55993-h/images/cover.jpg
 creator:
   author:
     agent_name: Pemberton, Max
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32059
     wikipedia: http://en.wikipedia.org/wiki/Max_Pemberton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55993#The-Diamond-Ship
 gutenberg_issued: '2017-11-18'
 gutenberg_type: Text
 identifiers:
