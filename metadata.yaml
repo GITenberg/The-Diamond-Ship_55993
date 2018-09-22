@@ -1,0 +1,24 @@
+_repo: The-Diamond-Ship_55993
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pemberton, Max
+    alias: Pemberton, Sir Max
+    birthdate: 1863
+    deathdate: 1950
+    gutenberg_agent_id: '32059'
+    url: http://www.gutenberg.org/2009/agents/32059
+    wikipedia: http://en.wikipedia.org/wiki/Max_Pemberton
+description: ''
+gutenberg_issued: '2017-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Diamond Ship
+url: http://www.gutenberg.org/ebooks/55993
